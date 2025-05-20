@@ -1,1 +1,1 @@
-Messing around with ML models by predicting prices of commodities.
+Experimenting with different ML models in order to predict the prices of commodities.
